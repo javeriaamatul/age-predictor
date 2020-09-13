@@ -4,10 +4,6 @@ import androidx.lifecycle.ViewModelProvider
 import com.javeria.agepredictor.Injection
 import com.javeria.agepredictor.MainViewModel
 
-/**
- * Created by Abhishek Raj on 21/04/2020
- */
-
 class BaseViewModel() : ViewModelProvider.Factory {
     @Suppress("UNCHECKED_CAST")
     override fun <T : ViewModel?> create(modelClass: Class<T>): T {
