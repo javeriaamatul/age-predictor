@@ -1,4 +1,4 @@
-package `in`.zapr.panel.viewmodel
+package com.javeria.agepredictor
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.javeria.agepredictor.Injection

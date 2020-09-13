@@ -1,6 +1,4 @@
 package com.javeria.agepredictor
-
-import `in`.zapr.panel.viewmodel.BaseViewModel
 import android.app.AlertDialog
 import android.app.Dialog
 import android.content.Context
